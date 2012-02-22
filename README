@@ -1,0 +1,11 @@
+This is an entry in a bot challenge held at the XP Man XL3 coding day at @madlabuk in Manchester on 04/02/2012. I worked on this challenge with @iksemot and @paulswilliamsuk. To find out more about the XP Manchester monthly user group, see xpmanchester.wordpress.com .
+
+The bot challenge was based on the Rock Paper Azure Challenge (rockpaperazure.com) . Each bot was required to write its move to the command-line and read an opponent bot's move. The five allowed moves were "rock", "paper", "scissors", "dynamite" and "waterbomb". The rules are:
+
+rock beats scissors
+scissors beats paper
+paper beats rock
+dynamite beats rock, paper or scissors
+waterbomb only beats dynamite
+
+Each round between two bots played the first to 1000 wins, where two bots playing the same move did not score for either bot. The bots were limited to only playing dynamite 100 times each round. A server was created to play two bots against one another, with some naive bots also provided by the organisers.

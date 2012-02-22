@@ -1,0 +1,8 @@
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\nunit.framework.dll
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\nunit.framework.xml
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+c:\users\myob\documents\visual studio 2010\Projects\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
